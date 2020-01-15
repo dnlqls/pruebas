@@ -1,3 +1,3 @@
 # hoal
 
-[[hola]](hola.html)
+[[hola]](https://dnlqls.github.io/pruebas/hola.html#/1/1)
