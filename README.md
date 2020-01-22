@@ -4,4 +4,3 @@ En el siguente enlace vamos a ver la historia del DNS como surguio la necesidad 
 
 [Historia del DNS](prueba1.html)
 
-[presentacion](Presentacion.html)
